@@ -1,0 +1,2 @@
+Experiment #,Generation,Train Accuracy,Test Accuracy,Short Test Accuracy,Rolling Window Accuracy,Val Accuracy,Fitness Value,Num Cryptos,Fit?,Learning Rate,Model Type,Num Buckets,Lookback,Batch Size,Num Epochs,Embed Dim,Drop Rate,Num Layers,Num Filters
+85,8,0.997,0.656,0.7333,0.6,1,0.6947,4082,TRUE,0.0001,1,75,41,500,390,552,0.1,11,2
